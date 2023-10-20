@@ -1,0 +1,11 @@
+@media (max-width: 767px) {
+    /* Your CSS styles for screens smaller than medium-sized screens go here */
+    /* For example, you can target elements or apply styles like font-size, padding, etc. */
+  #ani{
+    position: absolute !important;
+    top: 86px !important;
+    opacity: 0.2;
+  }
+
+  }
+  
